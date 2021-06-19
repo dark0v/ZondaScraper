@@ -6,6 +6,7 @@
   var hideAC = false;
   var hideAL = false;
 
+  
   //Gettign the Default Alerts from WS
   $.getJSON( wsAlertsDefault, function( data ) {
 
