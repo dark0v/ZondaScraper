@@ -1,0 +1,63 @@
+[
+    {
+        "_id": "5bd863e259879ccdbfcc4715",
+        "idAlert": 2392,
+        "nReport": 8,
+        "type": "AL",
+        "title": "Nevadas intensas",
+        "status": "Aviso",
+        "date": "2018-10-30",
+        "hour": "10:00:00",
+        "description": "El área de cobertura continuará siendo afectada por nevadas, algunas localmente intensas. Éstas condiciones tenderán a mejorar hacia el miércoles 31. Se esperan \r\nvalores de nieve acumulada, en todo el período, entre 50 y 70 cm, pudiendo \r\nser superados en forma puntual.",
+        "zones": {
+            "0": "Zona cordillerana de Mendoza",
+            "1": "Zona cordillerana del norte de Neuquén",
+            "2": "Zona cordillerana de San Juan"
+        },
+        "severity": null,
+        "polygon": null,
+        "update": "16:00:00"
+    },
+    {
+        "_id": "5bd863e259879ccdbfcc4716",
+        "idAlert": 2394,
+        "nReport": 5,
+        "type": "AL",
+        "title": "Tormentas fuertes",
+        "status": "Aviso",
+        "date": "2018-10-30",
+        "hour": "10:00:00",
+        "description": "Parte del área de cobertura es afectada por lluvias y tormentas aisladas. Se prevé que durante hoy martes 30 éstos fenómenos se extiendan \r\na toda la zona de influencia. Se espera que algunas de las tormentas puedan \r\nser localmente fuertes, acompañadas de fuerte actividad eléctrica, ráfagas, \r\nocasional caída de granizo y principalmente abundante caída de agua en cortos períodos. Éstas condiciones tenderán a mejorar gradualmente de oeste a este durante la tarde de hoy martes 30. Se determina el cese de alerta para el noreste de La Pampa y sur de San Luis.",
+        "zones": {
+            "0": "Centro y norte de la provincia de Buenos Aires",
+            "1": "Córdoba",
+            "2": "Sur de Entre Ríos",
+            "3": "Sur de Santa Fe",
+            "4": "Ciudad Autónoma de Buenos Aires, Río de la Plata"
+        },
+        "severity": null,
+        "polygon": null,
+        "update": "16:00:00"
+    },
+    {
+        "_id": "5bd863e259879ccdbfcc4717",
+        "idAlert": 2391,
+        "nReport": 8,
+        "type": "AL",
+        "title": "Vientos en cordillera",
+        "status": "Aviso",
+        "date": "2018-10-30",
+        "hour": "11:00:00",
+        "description": "Continuarán soplando vientos del sector oeste con velocidades\r\n estimadas entre 70 y 100 km/h con ráfagas, ocasionando viento\r\n blanco en alta montaña de San Juan y Mendoza. No se descarta la \r\nocurrencia de viento zonda en las zonas precordilleranas de San Juan, de La Rioja y de Catamarca.",
+        "zones": {
+            "0": "Zona cordillerana y precordillerana de Catamarca",
+            "1": "Zona cordillerana y precordillerana de La Rioja",
+            "2": "Zona cordillerana del centro y norte de Mendoza",
+            "3": "Zona cordillerana  de Salta",
+            "4": "Zona cordillerana y precordillerana de San Juan"
+        },
+        "severity": null,
+        "polygon": null,
+        "update": "17:00:00"
+    }
+]
